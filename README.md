@@ -24,8 +24,7 @@ This was a 2 day data science challenge that involved creating a machine learnin
 * Random Forest - 0.9536
 * Multinomial Naive Bayes - 0.9474
 
-### Improvements:
-# Future Improvements:
+### Future Improvements:
 If I had more time, here would be the following improvements that I would implement:
 1. __Adding more Named Entity Recognizers__: Through research of named entities, I can across many other entity recognizers such as Spacy and monkeylearn. Unlike what I am used to, there wasn't much data to go off of for a singluar word. If I used other Named Entity Recognizers, perhaps could have made a better model.
 

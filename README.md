@@ -12,7 +12,9 @@ Labels: O, B-location, I-location, B-group, B-corporation,
         I-creative-work, I-corporation, I-group, I-product
         
 O - Doesn't belong in any chunk
+
 B - Beginning of Chunk
+
 I - Inside of Chunk
  
 

@@ -7,6 +7,16 @@ This was a 2 day data science challenge that involved creating a machine learnin
 ## Dataset:
 ![Given Data](dataset.png "Data")
 
+Labels: O, B-location, I-location, B-group, B-corporation,
+        B-person, B-creative-work, B-product, I-person,
+        I-creative-work, I-corporation, I-group, I-product
+        
+O - Doesn't belong in any chunk
+B - Beginning of Chunk
+I - Inside of Chunk
+ 
+
+
 ## Programs used:
 * Python
 * Pandas

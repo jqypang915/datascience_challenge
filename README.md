@@ -7,8 +7,8 @@ This was a 2 day data science challenge that involved creating a machine learnin
 ## Dataset:
 ![Given Data](dataset.png "Data")
 
-word: contains a word from a collection of sentences
-label: a word chunk label similar to the ones used my SpaCy and NLTK (https://www.nltk.org/book/ch07.html)
+- word: contains a word from a collection of sentences
+- label: a word chunk label similar to the ones used my SpaCy and NLTK (https://www.nltk.org/book/ch07.html)
 
 
 ## Programs used:
